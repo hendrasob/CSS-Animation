@@ -1,0 +1,80 @@
+html {
+ font-family: 'Oxygen', sans-serif;
+  font-size:18px;
+  background: #07d307;
+  color:#fff
+    -webkit-font-smoothing: antialiased;
+    width: 100%;
+    overflow: hidden;
+    text-align: center;
+}
+
+.shakebox {
+    margin: 2rem auto;
+    width: 150px;
+    background: #69ff4b;
+    border-radius: 5px;
+    text-align: center;
+    padding: 2rem 1rem;
+    color: #fff;
+    box-shadow: 0 8px 10px -4px rgba(0,0,0,0.1);
+}
+
+.input--dropdown {
+    background-repeat: no-repeat;
+    background-size: 1.5rem 1rem;
+    background-position: right center;
+    padding: 1rem;
+}
+
+p, hr, form {
+    margin-bottom: 1.5rem;
+}
+
+.input {
+    border: 1px solid #7b8993;
+    border-radius: 4px;
+    padding: 1rem;
+}
+
+.butt, .input {
+    padding: .5rem;
+    margin: 1.5rem .2rem;
+    background-color: transparent;
+    border-radius: 4px;
+  border:0;
+  color:#fff;
+  background:rgba(0,0,0,0.2)
+}
+
+.butt {
+  background:#fff;
+    line-height: 1.375;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    font-weight: 700;
+    color: #07d307;
+    cursor: pointer;
+}
+
+.beta {
+    color: #fff;
+    margin: 2rem auto;
+    font-weight: 400;
+    font-size: 1.2rem;
+    line-height: 1;
+}
+
+input, select, button, textarea {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    font: inherit;
+    color: inherit;
+  outline: none
+}
+
+form {
+    display: block;
+    margin-top: 0em;
+}
