@@ -9,9 +9,9 @@
 
 </div>
 
-Simple repo by implementing [animate.css](https://animate.style/) in a work.
+Simple repo by implementing [animate.css](https://animate.style) in a work.
 
-Demo: [CSS Animation](https://hendrasob.github.io/CSS-Animation/)
+Demo: [CSS Animation](https://hendrasob.github.io/CSS-Animation)
 
 ## License
 
